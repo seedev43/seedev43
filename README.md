@@ -34,3 +34,40 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
 </p>
+
+
+## Repo Stats 🔥
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=mywajs&theme=highcontrast)
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=wwebjs&theme=highcontrast)
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=wabot-go&theme=highcontrast)
+
+ <p align="center">
+
+  <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api?username=seedev43&theme=tokyonight&show_icons=true" /></a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/amiruldev20"><img src="https://github-readme-streak-stats.herokuapp.com?user=seedev43&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+
+</p>
+
+  
+
+<p align="center">
+
+  <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seedev43&theme=tokyonight&layout=compact" /></a>
+
+</p>
+
+  
+
+<p align="center">
+
+  <a href="https://github.com/amiruldev20"><img src="https://github-profile-trophy.vercel.app/?username=seedev43&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+
+</p>
