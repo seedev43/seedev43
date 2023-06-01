@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hello, Im [Ahmad Dzaky](https://facebook.com/khunbotme) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :smiley:
 
-[<img src="https://img.shields.io/badge/Website-adz.my.id-blue">](adz.my.id)
+[<img src="https://img.shields.io/badge/Website-adz.my.id-blue">](www.adz.my.id)
 
 [<img src="https://img.shields.io/badge/Email-dzakykun11@gmail.com-purple">](mailto:dzakykun11@gmail.com)
 
