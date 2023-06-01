@@ -21,7 +21,46 @@ You can click the Preview link to take a look at your changes.
 [![GitHub seedev43](https://img.shields.io/github/followers/seedev43?label=follow&style=social)](https://github.com/seedev43)
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
+
+
+## Repo Stats 🔥
+
+
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=seetelebot&theme=highcontrast)
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=crud-daftar-buku-laravel9&theme=highcontrast)
+
+ <p align="center">
+
+  <a href="https://github.com/seedev43"><img src="https://github-readme-stats.vercel.app/api?username=seedev43&theme=tokyonight&show_icons=true" /></a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/seedev43"><img src="https://github-readme-streak-stats.herokuapp.com?user=seedev43&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+
+</p>
+
+  
+
+<p align="center">
+
+  <a href="https://github.com/seedev43"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seedev43&theme=tokyonight&layout=compact" /></a>
+
+</p>
+
+  
+
+<p align="center">
+
+  <a href="https://github.com/seedev43"><img src="https://github-profile-trophy.vercel.app/?username=seedev43&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+
+</p>
+   
+## 🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
@@ -33,41 +72,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
-</p>
-
-
-## Repo Stats 🔥
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=mywajs&theme=highcontrast)
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=wwebjs&theme=highcontrast)
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=wabot-go&theme=highcontrast)
-
- <p align="center">
-
-  <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api?username=seedev43&theme=tokyonight&show_icons=true" /></a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/amiruldev20"><img src="https://github-readme-streak-stats.herokuapp.com?user=seedev43&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-
-</p>
-
-  
-
-<p align="center">
-
-  <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seedev43&theme=tokyonight&layout=compact" /></a>
-
-</p>
-
-  
-
-<p align="center">
-
-  <a href="https://github.com/amiruldev20"><img src="https://github-profile-trophy.vercel.app/?username=seedev43&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-
 </p>
