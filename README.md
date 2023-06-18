@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @seedev43
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning something
 
 <!---
 seedev43/seedev43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
