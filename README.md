@@ -49,9 +49,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=seetelebot&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=chatbot-telegram&theme=highcontrast)
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=crud-daftar-buku-laravel9&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=seetelebot&theme=highcontrast)
 
  <p align="center">
 
