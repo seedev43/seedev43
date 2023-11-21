@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 [<img src="https://img.shields.io/badge/Email-dzakykun11@gmail.com-purple">](mailto:dzakykun11@gmail.com)
 
-<a href="https://www.instagram.com/dzakym03" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/dzakym43" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <a href="https://wa.me/6289665362153" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
@@ -40,6 +40,8 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
+
 </p>
 
 
@@ -49,9 +51,16 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=chatbot-telegram&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=chatbot-telegram&theme=tokyonight)
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=seetelebot&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=seetelebot&theme=tokyonight)
+
+<p align="center">
+
+  <a href="https://github.com/seedev43"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seedev43&theme=tokyonight&layout=compact" /></a>
+
+</p>
+   
 
  <p align="center">
 
@@ -67,17 +76,4 @@ You can click the Preview link to take a look at your changes.
 
   
 
-<p align="center">
 
-  <a href="https://github.com/seedev43"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seedev43&theme=tokyonight&layout=compact" /></a>
-
-</p>
-
-  
-
-<p align="center">
-
-  <a href="https://github.com/seedev43"><img src="https://github-profile-trophy.vercel.app/?username=seedev43&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-
-</p>
-   
