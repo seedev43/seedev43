@@ -54,9 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=chatbot-telegram&theme=tokyonight)
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=seetelebot&theme=tokyonight)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=whatsapp-bot-go&theme=tokyonight)
 
 <p align="center">
 
