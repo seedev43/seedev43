@@ -69,12 +69,3 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-<p align="center">
-
-  <a href="https://github.com/seedev43"><img src="https://github-readme-streak-stats.herokuapp.com?user=seedev43&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-
-</p>
-
-  
-
-
