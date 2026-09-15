@@ -51,18 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=seedev43&repo=whatsapp-bot-go&theme=tokyonight)
+![seedev43's GitHub Stats](https://readme-stats-github.pages.dev/api?username=seedev43&theme=shadow)
 
-<p align="center">
-
-  <a href="https://github.com/seedev43"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seedev43&theme=tokyonight&layout=compact" /></a>
-
-</p>
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=seedev43&theme=shadow)
    
-
- <p align="center">
-
-  <a href="https://github.com/seedev43"><img src="https://github-readme-stats.vercel.app/api?username=seedev43&theme=tokyonight&show_icons=true" /></a>
-
-</p>
-
